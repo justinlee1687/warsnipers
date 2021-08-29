@@ -1,0 +1,13 @@
+# main links
+main:
+  - title: "Our Clans"
+    url: /our-clans/
+  - title: "About FWA"
+    url: /about-fwa/
+  - title: "Discord"
+    url: /discord/
+
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
