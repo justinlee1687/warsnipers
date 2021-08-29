@@ -30,7 +30,7 @@ url: "https://www.warsnipers.com" # the base hostname & protocol for your site, 
 #github_username:  jekyll
 
 # Build settings
-remote_theme: mmistakes/minimal-mistakes@4.24.0
+remote_theme: chrisrhymes/bulma-clean-theme
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
