@@ -5,6 +5,7 @@ WilliamLC:
   links:
     - label: "Discord ID: WilliamLC#8374"
       icon: "fab fa-discord"
+      url: "/discord"
       
 Justin:
   name        : "Justin"
@@ -13,3 +14,4 @@ Justin:
   links:
     - label: "Discord ID: Justin#1676"
       icon: "fab fa-discord"
+      url: "/discord"
