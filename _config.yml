@@ -34,6 +34,7 @@ remote_theme: mmistakes/minimal-mistakes@4.24.0
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-include-cache 
 
 logo: "/assets/images/logolvl25.png"
 
