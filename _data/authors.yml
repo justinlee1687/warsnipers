@@ -3,7 +3,7 @@ WilliamLC:
   bio         : "WS2.G Lead"
   avatar      : "https://cdn.discordapp.com/avatars/124654965774876673/106402d0863ffbba4cdd77cb5ac7afa1.png?size=256"
   links:
-    - label: "Discord ID: WilliamLC#8374"
+    - label: "WilliamLC#8374"
       icon: "fab fa-discord"
       url: "/discord"
       
@@ -12,6 +12,6 @@ Justin:
   bio         : "FWA Admin, Lead of WS2.B and WS2.8"
   avatar      : "https://cdn.discordapp.com/avatars/244447987948847109/3178298c5f4ce22eb724ea139906fdbb.png?size=256"
   links:
-    - label: "Discord ID: Justin#1676"
+    - label: "Justin#1676"
       icon: "fab fa-discord"
       url: "/discord"
