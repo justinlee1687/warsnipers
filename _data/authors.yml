@@ -43,12 +43,20 @@ Thxbault:
       icon: "fab fa-discord"
       url: "/discord"
       
-ItsMe AK:
-  name        : "ItsMe AK"
-  bio         : "WS2.E Lead"
+mbehtiop:
+  name        : "mbehtiop"
+  bio         : "WS2.4 Lead"
   avatar      : "https://cdn.discordapp.com/avatars/260507246323040259/b372b26c4fbcfc87fea9bad65e39405c.png?size=256"
   links:
     - label: "Anonny#0001"
       icon: "fab fa-discord"
       url: "/discord"
       
+ItsMe AK:
+  name        : "ItsMe AK"
+  bio         : "WS2.E Lead"
+  avatar      : "https://cdn.discordapp.com/avatars/396541298565185547/a_5895d9935033e01e68b11b510a89322c.gif?size=256"
+  links:
+    - label: "AK#2881"
+      icon: "fab fa-discord"
+      url: "/discord"
