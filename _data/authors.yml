@@ -15,3 +15,40 @@ Justin:
     - label: "Justin#1676"
       icon: "fab fa-discord"
       url: "/discord"
+      
+Me$h:
+  name        : "Me$h"
+  bio         : "WS2.A Lead"
+  avatar      : "https://cdn.discordapp.com/avatars/496016928024952846/a_31afe8b8cba5d74ce4a906c192b4ed7f.png?size=256"
+  links:
+    - label: "Me$h#3146"
+      icon: "fab fa-discord"
+      url: "/discord"
+      
+I2_frosty:
+  name        : "I2_frosty"
+  bio         : "WS2.D Lead"
+  avatar      : "https://cdn.discordapp.com/avatars/485463861965881369/dabdbbe6de17ec99cb83f77470fcbe61.png?size=256"
+  links:
+    - label: "I2_frosty#9784"
+      icon: "fab fa-discord"
+      url: "/discord"
+      
+Thxbault:
+  name        : "Thxbault"
+  bio         : "WS2.7 Lead"
+  avatar      : "https://cdn.discordapp.com/avatars/107413197702582272/eb18b1680a0f4a3ba274fe5c29284170.png?size=256"
+  links:
+    - label: "Thxbault#7875"
+      icon: "fab fa-discord"
+      url: "/discord"
+      
+ItsMe AK:
+  name        : "ItsMe AK"
+  bio         : "WS2.E Lead"
+  avatar      : "https://cdn.discordapp.com/avatars/260507246323040259/b372b26c4fbcfc87fea9bad65e39405c.png?size=256"
+  links:
+    - label: "Anonny#0001"
+      icon: "fab fa-discord"
+      url: "/discord"
+      
