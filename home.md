@@ -11,25 +11,24 @@ header:
     - label: "Join us today"
       url: "https://www.warsnipers.com/discord/"
   caption: "Text here: [**Unsplash**](https://unsplash.com)"
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+excerpt: "War Snipers is a group of clans playing together for many years. We are doing War Farming in the Farm War Alliance."
 intro: 
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 feature_row:
   - image_path: https://i.imgur.com/C5eHOrz.png
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    alt: "A big community"
+    title: "A big community"
+    excerpt: "Be part of our clans, and join today more than 400 players around the world!"
   - image_path: https://i.imgur.com/ebiRz1q.png
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+    alt: "The game, and more"
+    title: "The game, and more"
+    excerpt: "Join us and be part of our community, speaking about the game, but also more topics."
   - image_path: https://i.imgur.com/kVwrvZK.jpg
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    title: "Join our Subreddit"
+    excerpt: "We have a subreddit were we post some news, infos about our clans."
+    url: "https://www.reddit.com/r/WarSnipers/"
+    btn_label: "r/WarSnipers"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
