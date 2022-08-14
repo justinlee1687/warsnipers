@@ -10,7 +10,6 @@ header:
   actions:
     - label: "Join us today"
       url: "https://www.warsnipers.com/discord/"
-  caption: "Text here: [**Unsplash**](https://unsplash.com)"
 excerpt: "War Snipers is a group of clans playing together for many years. We are doing War Farming in the Farm War Alliance."
 intro: 
   - excerpt: 'We are using Discord as a main communication app. It help us with recruitment, centralized infos for everyone. Each clans get their own channels, and also some global channels for every members. Look around our website for more infos, and join our discord if you are intersted to play FWA wars.'
