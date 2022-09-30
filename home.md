@@ -10,21 +10,27 @@ header:
   actions:
     - label: "Join us today"
       url: "https://www.warsnipers.com/discord/"
-excerpt: "War Snipers is a group of clans playing together for many years. We are doing War Farming in the Farm War Alliance."
-intro: 
-  - excerpt: 'We are using Discord as a main communication app. It help us with recruitment, centralized infos for everyone. Each clans get their own channels, and also some global channels for every members. Look around our website for more infos, and join our discord if you are intersted to play FWA wars.'
+excerpt: "War Snipers is a group of clans that has been part of the war farming community for many years in the mobile game Clash of Clans. Currently, we war farm in the Farm War Alliance."
+intro:
+  - excerpt: 'We use Discord as our main communication app. Centralized information for everyone is provided in the discord. Additionally, all of our recruitment is also done on discord. Each clans has their own channels, while also providing global channels for members. You are welcome to join our discord to look for more information or to join our clans.'
 feature_row:
   - image_path: https://i.imgur.com/C5eHOrz.png
     alt: "A big community"
     title: "A big community"
-    excerpt: "Be part of our clans, and join today more than 400 players around the world!"
+    excerpt: "Be apart of our clans, and join more than 400 players around the world today!"
+    url: "https://www.warsnipers.com/clans/"
+    btn_label: "Our Clans"
+    btn_class: "btn--primary"
   - image_path: https://i.imgur.com/ebiRz1q.png
     alt: "The game, and more"
     title: "The game, and more"
-    excerpt: "Join us and be part of our community, speaking about the game, but also more topics."
+    excerpt: "Join us and be part of our community, and have conversations that are about the game and also general topics"
+    url: "https://www.warsnipers.com/discord/"
+    btn_label: "See more about our discord"
+    btn_class: "btn--primary"
   - image_path: https://i.imgur.com/kVwrvZK.jpg
     title: "Join our Subreddit"
-    excerpt: "We have a subreddit were we post some news, infos about our clans."
+    excerpt: "We have a subreddit where we post news and relevant information about our clans."
     url: "https://www.reddit.com/r/WarSnipers/"
     btn_label: "r/WarSnipers"
     btn_class: "btn--primary"
@@ -33,4 +39,3 @@ feature_row:
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
-
