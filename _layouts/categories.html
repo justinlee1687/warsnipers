@@ -33,7 +33,7 @@ layout: archive
         <h2 class="archive__subtitle">{{ category[0] }}</h2>
         <div class="entries-{{ entries_layout }}">
           {% assign sortedPosts = site.posts | sort: 'title' %}
-          {% for post in category.last %}
+          {% for sortedPosts in site.posts %}
             {% include archive-single.html type=entries_layout %}
           {% endfor %}
         </div>
