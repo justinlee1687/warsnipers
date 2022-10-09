@@ -1,5 +1,5 @@
 ---
-toc: true
+toc: false
 toc_label: "Table of Contents"
 title: CWL Instructions & FAQs   
 layout: single
@@ -20,55 +20,52 @@ author: Justin
 3. <span style="color:#3fa63f; font-weight:bold"> Attack your mirror </span>; you may only attack another base if the owner has already attacked it , if you've made an agreement with the base owner,  or if the base is open for everyone(The free bases will be pinned in the clan specific CWL channel.)
 Please let a leader know if your target was taken and you’re confused on what to do.
 4. <span style="color:#3fa63f; font-weight:bold"> Be prepared before leaving. </span> Make sure you have clan castle troops, your full army trained, and heroes healed, before going.
-
-Do NOT leave from the main clan between end of CWL signups & start of fwa war, and between end of fwa war day and start of the next fwa sync. Occasionally, CWL clans will be closed to indicate you should not leave.
-{: .notice--info}
-
-5. Turn your INVITES ON, so we can send you invites back.
-6. Bookmark your CWL clan so you do not get lost.
-7. Tag a Leader in your clan specific chat if you cannot request into the clan. This means when you request, the “Request Sent” message does not show up. This happens because there can be only 5 sitting requests at any one time.
-8. Request back into the FWA clan with “returning from CWL” for quicker and easier hopping.
+5. <span style="color:#B22222; font-weight:bold"> Do NOT leave from the main clan between end of CWL signups & start of FWA war, and between end of FWA war day and start of the next FWA sync. </span> Occasionally, CWL clans will be closed to indicate you should not leave.
+6. Turn your INVITES ON, so we can send you invites back.
+7. Bookmark your CWL clan so you do not get lost.
+8. Tag a Leader in your clan specific chat if you cannot request into the clan. This means when you request, the “Request Sent” message does not show up. This happens because there can be only 5 sitting requests at any one time.
+9. Request back into the FWA clan with “returning from CWL” for quicker and easier hopping.
 
 Leaders reserve the right to ban anyone from CWL or forbid you from getting the bonus.<br>
-Common reasons include but are not limited to:
-- Joining but not attacking in CWL, leading to a wasted spot
-- Taking too long to come back from CWL
-- Missing FWA attacks while not missing CWL attacks.
-- Going over to the CWL clan without finishing your FWA attacks if instructed to do so.
+Common reasons include but are not limited to:<br>
+Joining but not attacking in CWL, leading to a wasted spot.<br>
+Taking too long to come back from CWL.<br>
+Missing FWA attacks while not missing CWL attacks.
+Going over to the CWL clan without finishing your FWA attacks if instructed to do so.
 {: .notice--info}
 
 ## FAQs:
-Q: Do we face war bases or FWA bases in CWL? <br>
+**Q: Do we face war bases or FWA bases in CWL?** <br>
 A: War Bases
 
-Q: My mirror is never the same TH level as me, I need help! <br>
-A: Please read the message in our discord here (a pin in #clash-chat) or scroll to bottom of this doc to see how to attack mismatched mirrors.
+**Q: My mirror is never the same TH level as me, I need help!** <br>
+A: Please read the message in our discord here (a pin in #clash-chat) or click [here](https://www.warsnipers.com/cwl.html#a-simple-guide-to-2-starring-bases-that-are-above-your-normal-th-level-mostly-for-cwl)
 
-Q: How do I get the bonuses? <br>
-A: This is clan dependent. Some clans give it to highest donors, some give it out randomly. 2.8, 2.B, 2.G and 2.A uses a more complicated system. The standard deviation of all clan members is calculated using last month’s donation and receives, with proportion to their TH level and their total clan statistics . Donations are weighted twice as heavily as receives during this calculation. Then, it is given to the ones with the highest z score in each CWL clan.
+**Q: How do I get the bonuses?** <br>
+A: This is clan dependent. Some clans give it to highest donors, some give it out randomly. 2.8, 2.B, 2.D, 2.G and 2.A uses a more complicated system. The standard deviation of all clan members is calculated using last month’s donation and receives, with proportion to their TH level and their total clan statistics . Donations are weighted twice as heavily as receives during this calculation. Then, it is given to the ones with the highest z score in each CWL clan.
 
-Q: Can I have a war base? I’ll remember to change my base. <br>
+**Q: Can I have a war base? I’ll remember to change my base.** <br>
 A: No. No exceptions. FWA base at all times. (Clan-wide exceptions do apply if we match a blacklisted clan)
 
-Q: Do we ever win? What’s the point of losing all the CWLs? <br>
-A: We do occasionally win. We earn a decent number of medals just by losing, see “How many medals will I get?”.
+**Q: Do we ever win? What’s the point of losing all the CWLs?** <br>
+A: We do occasionally win. We earn a decent number of medals just by losing, see “How many medals will I get?**”.
 
-Q: Can my mini/alt account join your CWL? <br>
+**Q: Can my mini/alt account join your CWL?** <br>
 A: You may add an alt into the last CWL clan listed on discord. I do not make guarantees on whether we can start or if you will be in war. Please state you are adding an alt account on discord so I do not boot you for a random player.
 
-Q: Can I have a mini in the clan to scout bases? <br>
+**Q: Can I have a mini in the clan to scout bases?** <br>
 A: Yes, but please add the account AFTER we’ve started CWL, as you will mess up the CWL count. You will need to ask for a promotion on discord once we’ve started CWL, as the new update prohibits non-participating members to scout.
 
-Q: How do I know when war starts? <br>
+**Q: How do I know when war starts?** <br>
 A: We have currently implemented a bot to check CWL times. See the CWL category on discord for your clan specific CWL channel. See the pinned message in the channel for the commands.
 
-Q: How do you do both FWA and CWL together, won’t there be a war timer? <br>
+**Q: How do you do both FWA and CWL together, won’t there be a war timer?** <br>
 A: No. CWL war timer is separate from regular war timers.
 
-Q: How do you track donations when we hop to CWL everyday? <br>
+**Q: How do you track donations when we hop to CWL everyday?** <br>
 A: see /donations in clan bot channel, but you should be able to hit your clan minimums d/r regardless with d/r from end of CWL to end of season. It’s not that difficult.
 
-Q: How do I maximize medals? <br>
+**Q: How do I maximize medals?** <br>
 A: You should get at least 8 stars during the entire CWL. See table below for further details.
 
 | Numbers of Stars Earned | Percentage of Medals Earned |
@@ -83,7 +80,7 @@ A: You should get at least 8 stars during the entire CWL. See table below for fu
 | 7                       | 90%                         |
 | 8+                      | 100%                        |
 
-Q: How many medals will I get?
+**Q: How many medals will I get?**
 A: Please see below table. (This assumes you have gotten 8 stars) For the purposes of our clans, only Crystal 2 - Masters 1 will be shown, as our clans only do CWL in these leagues.
 
 |               | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th |  8th |
@@ -94,7 +91,7 @@ A: Please see below table. (This assumes you have gotten 8 stars) For the purpos
 |   Master II   | 346 | 340 | 334 | 328 | 322 | 316 | 310 | 304  |
 |   Master I    | 382 | 376 | 370 | 364 | 358 | 352 | 346 | 340  |
 
-Q: How many bonuses is there? How many medals is the bonus? <br>
+**Q: How many bonuses is there? How many medals is the bonus?** <br>
 A: One win is one additional bonus. See table below for everything else. Always assume no wins. For the purposes of our clans, only Crystal 2 - Masters 1 will be shown, as our clans only do CWL in these leagues.
 
 | War League  | Number of Guaranteed Bonuses  | League Medals per Bonus |
