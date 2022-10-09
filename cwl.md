@@ -16,23 +16,24 @@ author: Justin
 
 ## Guidelines:
 1. We will be doing CWL and regular FWA wars at the same time so you need to <span style="color:#B22222; font-weight:bold"> keep your FWA war base active AT ALL TIME </span> - If you got a WAR BASE in FWA that is a INSTANT KICK
-2. <span style="color:#B22222; font-weight:bold"> Do NOT linger in the CWL clan unnecessarily.</span> Hop over to attack and return to your main clan immediately. <span style="color:#3fa63f; font-weight:bold"> You should not take more than 10 minutes.</span>
-3. <span style="color:#3fa63f; font-weight:bold"> Attack your mirror </span>; you may only attack another base if the owner has already attacked it , if you've made an agreement with the base owner,  or if the base is open for everyone(The free bases will be pinned in the clan specific CWL channel.)
+2. <span style="color:#B22222; font-weight:bold"> Do NOT linger in the CWL clan unnecessarily.</span> Hop over to attack and return to your main clan immediately. <span style=font-style:italic"> You should not take more than 10 minutes.</span>
+3. <span style="font-weight:bold"> Attack your mirror </span>; you may only attack another base if the owner has already attacked it , if you've made an agreement with the base owner,  or if the base is open for everyone(The free bases will be pinned in the clan specific CWL channel.)
 Please let a leader know if your target was taken and you’re confused on what to do.
-4. <span style="color:#3fa63f; font-weight:bold"> Be prepared before leaving. </span> Make sure you have clan castle troops, your full army trained, and heroes healed, before going.
-5. <span style="color:#B22222; font-weight:bold"> Do NOT leave from the main clan between end of CWL signups & start of FWA war, and between end of FWA war day and start of the next FWA sync. </span> Occasionally, CWL clans will be closed to indicate you should not leave.
-6. Turn your INVITES ON, so we can send you invites back.
-7. Bookmark your CWL clan so you do not get lost.
-8. Tag a Leader in your clan specific chat if you cannot request into the clan. This means when you request, the “Request Sent” message does not show up. This happens because there can be only 5 sitting requests at any one time.
-9. Request back into the FWA clan with “returning from CWL” for quicker and easier hopping.
+4. **Be prepared before leaving.** Make sure you have clan castle troops, your full army trained, and heroes healed, before going.
+5. Turn your INVITES ON, so we can send you invites back.
+6. Bookmark your CWL clan so you do not get lost.
+7. Tag a Leader in your clan specific chat if you cannot request into the clan. This means when you request, the “Request Sent” message does not show up. This happens because there can be only 5 sitting requests at any one time.
+8. Request back into the FWA clan with “returning from CWL” for quicker and easier hopping.
 
-Leaders reserve the right to ban anyone from CWL or forbid you from getting the bonus.<br>
-Common reasons include but are not limited to:<br>
-Joining but not attacking in CWL, leading to a wasted spot.<br>
-Taking too long to come back from CWL.<br>
-Missing FWA attacks while not missing CWL attacks.
-Going over to the CWL clan without finishing your FWA attacks if instructed to do so.
+Do NOT leave from the main clan between end of CWL signups & start of FWA war, and between end of FWA war day and start of the next FWA sync. Occasionally, CWL clans will be closed to indicate you should not leave.
 {: .notice--info}
+
+> Leaders reserve the right to ban anyone from CWL or forbid you from getting the bonus.<br>
+> Common reasons include but are not limited to:<br>
+> - Joining but not attacking in CWL, leading to a wasted spot.<br>
+> - Taking too long to come back from CWL.<br>
+> - Missing FWA attacks while not missing CWL attacks.
+> -Going over to the CWL clan without finishing your FWA attacks if instructed to do so.
 
 ## FAQs:
 **Q: Do we face war bases or FWA bases in CWL?** <br>
@@ -69,7 +70,7 @@ A: see /donations in clan bot channel, but you should be able to hit your clan m
 A: You should get at least 8 stars during the entire CWL. See table below for further details.
 
 | Numbers of Stars Earned | Percentage of Medals Earned |
-|-------------------------|-----------------------------|
+|:-----------------------:|:---------------------------:|
 | 0                       | 20%                         |
 | 1                       | 30%                         |
 | 2                       | 40%                         |
@@ -107,11 +108,9 @@ A: One win is one additional bonus. See table below for everything else. Always 
 
 Writing a big note especially for the lower townhall players having difficulty in getting stars in CWL. I am attaching 2 replays on the best strategy to be used for CWL. Most of the time you all would be able to score 2 stars in hitting a townhall which is higher than yours.
 
-11v13 2 stars strategy:
-https://drive.google.com/file/d/1qAEFuLu-TILUOVQBExVzIpP9ET20C7sU/view?usp=drivesdk
+[11v13 2 stars strategy](https://drive.google.com/file/d/1qAEFuLu-TILUOVQBExVzIpP9ET20C7sU/view?usp=drivesdk)
 
-11v12 2 stars strategy:
-https://drive.google.com/file/d/1q8B0AJ6pAONZVWfDyMFstSI36cWvZdLX/view?usp=drivesdK
+[11v12 2 stars strategy](https://drive.google.com/file/d/1q8B0AJ6pAONZVWfDyMFstSI36cWvZdLX/view?usp=drivesdK)
 
 Points to remember:
 1. You need to be calculative on destroying the air defense using zap spells. Try to get at least 3 ads with zap spells especially those ads which are farther from the center.
