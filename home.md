@@ -22,10 +22,10 @@ feature_row:
     btn_label: "Our Clans"
     btn_class: "btn--primary"
   - image_path: https://i.imgur.com/ebiRz1q.png
-    alt: "The game, and more"
-    title: "The game, and more"
-    excerpt: "Join us and be part of our community, and have conversations that are about the game and also general topics"
-    url: "https://www.warsnipers.com/discord/"
+    alt: "Pioneered by 2.G's iss114 in August 2019 before adopted by a lot of the FWA community."
+    title: "CWL and FWA at the same time. "
+    excerpt: "Learn more about the unique way we do both CWL and FWA every month."
+    url: "https://www.warsnipers.com/cwl/"
     btn_label: "See more about our discord"
     btn_class: "btn--primary"
   - image_path: https://i.imgur.com/kVwrvZK.jpg
