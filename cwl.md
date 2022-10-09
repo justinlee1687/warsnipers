@@ -16,8 +16,8 @@ author: Justin
 
 ## Guidelines:
 1. We will be doing CWL and regular FWA wars at the same time so you need to <span style="color:#3fa63f; font-weight:bold"> keep your FWA war base active AT ALL TIME </span> - If you got a WAR BASE in FWA that is a INSTANT KICK
-2. <span style="color:#3fa63f; font-weight:bold"> Do NOT linger in the CWL clan unnecessarily.</span> Hop over to attack and return to your main clan immediately. <em> You should not take more than 10 minutes.</em>
-3. <em> Attack your mirror </em>; you may only attack another base if the owner has already attacked it , if you've made an agreement with the base owner,  or if the base is open for everyone(The free bases will be pinned in the clan specific CWL channel.)
+2. <span style="color:#3fa63f; font-weight:bold"> Do NOT linger in the CWL clan unnecessarily.</span> Hop over to attack and return to your main clan immediately. *You should not take more than 10 minutes.*
+3. *Attack your mirror*; you may only attack another base if the owner has already attacked it , if you've made an agreement with the base owner,  or if the base is open for everyone(The free bases will be pinned in the clan specific CWL channel.)
 Please let a leader know if your target was taken and you’re confused on what to do.
 4. **Be prepared before leaving.** Make sure you have clan castle troops, your full army trained, and heroes healed, before going.
 5. Turn your INVITES ON, so we can send you invites back.
