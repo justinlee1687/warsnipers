@@ -24,7 +24,7 @@ feature_row:
   - image_path: https://i.imgur.com/ebiRz1q.png
     alt: "CWL and FWA at the same time."
     title: "Unique CWL experience. "
-    excerpt: "Pioneered by 2.G's iss114 in August 2019 before adopted by a lot of the FWA community."
+    excerpt: "Doing CWL and FWA simultaneously, it was pioneered by 2.G's iss114 in August 2019 before adopted by a lot of the FWA community."
     url: "https://www.warsnipers.com/cwl"
     btn_label: "Learn More"
     btn_class: "btn--primary"
