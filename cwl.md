@@ -15,9 +15,9 @@ author: Justin
 5. Steps 3 to 4 will be repeated 7 times.
 
 ## Guidelines:
-1. We will be doing CWL and regular FWA wars at the same time so you need to <span style="color:#B22222; font-weight:bold"> keep your FWA war base active AT ALL TIME </span> - If you got a WAR BASE in FWA that is a INSTANT KICK
-2. <span style="color:#B22222; font-weight:bold"> Do NOT linger in the CWL clan unnecessarily.</span> Hop over to attack and return to your main clan immediately. <span style=font-style:italic"> You should not take more than 10 minutes.</span>
-3. <span style="font-weight:bold"> Attack your mirror </span>; you may only attack another base if the owner has already attacked it , if you've made an agreement with the base owner,  or if the base is open for everyone(The free bases will be pinned in the clan specific CWL channel.)
+1. We will be doing CWL and regular FWA wars at the same time so you need to <span style="color:#3fa63f; font-weight:bold"> keep your FWA war base active AT ALL TIME </span> - If you got a WAR BASE in FWA that is a INSTANT KICK
+2. <span style="color:#3fa63f; font-weight:bold"> Do NOT linger in the CWL clan unnecessarily.</span> Hop over to attack and return to your main clan immediately. <em> You should not take more than 10 minutes.</em>
+3. <em> Attack your mirror </em>; you may only attack another base if the owner has already attacked it , if you've made an agreement with the base owner,  or if the base is open for everyone(The free bases will be pinned in the clan specific CWL channel.)
 Please let a leader know if your target was taken and you’re confused on what to do.
 4. **Be prepared before leaving.** Make sure you have clan castle troops, your full army trained, and heroes healed, before going.
 5. Turn your INVITES ON, so we can send you invites back.
@@ -25,7 +25,7 @@ Please let a leader know if your target was taken and you’re confused on what 
 7. Tag a Leader in your clan specific chat if you cannot request into the clan. This means when you request, the “Request Sent” message does not show up. This happens because there can be only 5 sitting requests at any one time.
 8. Request back into the FWA clan with “returning from CWL” for quicker and easier hopping.
 
-Do NOT leave from the main clan between end of CWL signups & start of FWA war, and between end of FWA war day and start of the next FWA sync. Occasionally, CWL clans will be closed to indicate you should not leave.
+Do **NOT** leave from the main clan between end of CWL signups & start of FWA war, and between end of FWA war day and start of the next FWA sync. Occasionally, CWL clans will be closed to indicate you should not leave.
 {: .notice--info}
 
 > Leaders reserve the right to ban anyone from CWL or forbid you from getting the bonus.<br>
@@ -33,7 +33,7 @@ Do NOT leave from the main clan between end of CWL signups & start of FWA war, a
 > - Joining but not attacking in CWL, leading to a wasted spot.<br>
 > - Taking too long to come back from CWL.<br>
 > - Missing FWA attacks while not missing CWL attacks.
-> -Going over to the CWL clan without finishing your FWA attacks if instructed to do so.
+> - Going over to the CWL clan without finishing your FWA attacks if instructed to do so.
 
 ## FAQs:
 **Q: Do we face war bases or FWA bases in CWL?** <br>
@@ -49,7 +49,7 @@ A: This is clan dependent. Some clans give it to highest donors, some give it ou
 A: No. No exceptions. FWA base at all times. (Clan-wide exceptions do apply if we match a blacklisted clan)
 
 **Q: Do we ever win? What’s the point of losing all the CWLs?** <br>
-A: We do occasionally win. We earn a decent number of medals just by losing, see “How many medals will I get?**”.
+A: We do occasionally win. We earn a decent number of medals just by losing, see “How many medals will I get?”.
 
 **Q: Can my mini/alt account join your CWL?** <br>
 A: You may add an alt into the last CWL clan listed on discord. I do not make guarantees on whether we can start or if you will be in war. Please state you are adding an alt account on discord so I do not boot you for a random player.
