@@ -1,10 +1,8 @@
 ---
 layout: single
-author_profile: true
-author: WilliamLC
+author_profile: false
+title: What is the Farm War Alliance?
 ---
-# What is the Farm War Alliance?
-
 The Farm War Alliance, or FWA, was created to allow farming clans to participate in arranged wars with other farming clans that understand the farm war concept. We are an International group of over 600+ proud clans. We take turns winning and all have similar easy to 3 star bases. This allows us to gain considerable clan XP and loot while using cheap armies.
 
 By starting our wars at the same time, we have a high match rate (98% or more) with each other, allowing us to get easy loot and stars. Without the stress of real wars you can play casually, or focus on farming, pushing, and other parts of the game while getting easy war loot, even while your heroes are upgrading.
