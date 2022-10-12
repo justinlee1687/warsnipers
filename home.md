@@ -22,8 +22,8 @@ feature_row:
     btn_label: "Our Clans"
     btn_class: "btn--primary"
   - image_path: https://i.imgur.com/ebiRz1q.png
-    alt: "CWL and FWA at the same time."
-    title: "Unique CWL experience. "
+    alt: "CWL and FWA at the same time"
+    title: "Unique CWL experience"
     excerpt: "Doing CWL and FWA simultaneously, it was pioneered by 2.G's iss114 in August 2019 before adopted by much of the wider FWA community"
     url: "/cwl"
     btn_label: "Learn More"

@@ -10,7 +10,7 @@ author: Justin
 
 ## Instructions:
 1. You join the CWL clan.
-2. I start war, and you head back to your main clan once we've started CWL.
+2. I start CWL once we reach the target number of players, then you return to your main clan.
 3. You stay put in the main clan at all times, except for CWL attacks. It is important to do so as we will be doing FWA wars alongside CWL.
 4. You jump to the CWL clan, do your attack then head straight back to your home clan.
 5. Steps 3 to 4 will be repeated 7 times.
@@ -18,9 +18,9 @@ author: Justin
 ## Guidelines:
 1. We will be doing CWL and regular FWA wars at the same time so you need to <span style="color:#3fa63f; font-weight:bold"> keep your FWA war base active AT ALL TIMES </span> - If you have a WAR BASE in FWA it's an INSTANT KICK
 2. <span style="color:#3fa63f; font-weight:bold"> Do NOT linger in the CWL clan unnecessarily.</span> Hop over to attack then return to your main clan immediately. *You should not take more than 10 minutes.*
-3. *Attack your mirror*; you may only attack another base if the owner has already attacked it, if you've made an agreement with the base owner,  or if the base is open for everyone (The free bases will be pinned in your clan specific CWL channel.)
+3. *Attack your mirror*; you may only attack another base if the owner has already attacked it, if you've made an agreement with the base owner, or if the base is open for everyone (The free bases will be pinned in your clan specific CWL channel)
 Please let a leader know if your target was taken and you’re confused on what to do.
-4. **Be prepared before leaving.** Make sure you have clan castle troops, your full army trained, and heroes healed, before going.
+4. **Be prepared before leaving.** Make sure you have your clan castle filled, a full army trained, and your heroes healed before going.
 5. Turn your INVITES ON, so we can send you invites back.
 6. Bookmark your CWL clan so you do not get lost.
 7. Tag a Leader in your clan specific chat if you cannot request into the clan. This means when you request, the “Request Sent” message does not show up. This happens because there can be only 5 sitting requests at any one time.
