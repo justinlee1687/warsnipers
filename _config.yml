@@ -33,10 +33,10 @@ include: ["pages"]
 # Build settings
 remote_theme: mmistakes/minimal-mistakes@4.24.0
 plugins:
+  - jemoji
   - jekyll-feed
   - jekyll-remote-theme
   - jekyll-include-cache
-  - jemoji
 
 logo: "/assets/images/logolvl25.png"
 
