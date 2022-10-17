@@ -20,7 +20,7 @@ List of our clans below. They are all using discord. You have to join discord to
 
 **INFO:**<br>
 Clash of stats: [Link](https://www.clashofstats.com/clans/war-snipers-2.7-PU9PLQJ2/summary)<br>
-Rules: [Click here](https://www.warsnipers.com/clans/27)<br>
+Rules: [Click here](https://www.warsnipers.com/clans/24)<br>
 CWL in separate clan <br>
 Donations: 1300 donations/reqs minimum<br>
 **Leader**: Thxbault <br>
@@ -44,7 +44,7 @@ Donations: 1300 donations/reqs minimum<br>
 
 **INFO:**<br>
 Clash of stats: [Link](https://www.clashofstats.com/clans/war-snipers-2.7-PU9PLQJ2/summary)<br>
-Rules: [Click here](https://www.warsnipers.com/clans/27)<br>
+Rules: [Click here](https://www.warsnipers.com/clans/28)<br>
 CWL in separate clan <br>
 Donations: 1300 donations/reqs minimum<br>
 **Leader**: Thxbault <br>
@@ -56,7 +56,7 @@ Donations: 1300 donations/reqs minimum<br>
 
 **INFO:**<br>
 Clash of stats: [Link](https://www.clashofstats.com/clans/war-snipers-2.7-PU9PLQJ2/summary)<br>
-Rules: [Click here](https://www.warsnipers.com/clans/27)<br>
+Rules: [Click here](https://www.warsnipers.com/clans/2a)<br>
 CWL in separate clan <br>
 Donations: 1300 donations/reqs minimum<br>
 **Leader**: Thxbault <br>
@@ -68,7 +68,7 @@ Donations: 1300 donations/reqs minimum<br>
 
 **INFO:**<br>
 Clash of stats: [Link](https://www.clashofstats.com/clans/war-snipers-2.7-PU9PLQJ2/summary)<br>
-Rules: [Click here](https://www.warsnipers.com/clans/27)<br>
+Rules: [Click here](https://www.warsnipers.com/clans/2b)<br>
 CWL in separate clan <br>
 Donations: 1300 donations/reqs minimum<br>
 **Leader**: Thxbault <br>
@@ -80,7 +80,7 @@ Donations: 1300 donations/reqs minimum<br>
 
 **INFO:**<br>
 Clash of stats: [Link](https://www.clashofstats.com/clans/war-snipers-2.7-PU9PLQJ2/summary)<br>
-Rules: [Click here](https://www.warsnipers.com/clans/27)<br>
+Rules: [Click here](https://www.warsnipers.com/clans/2d)<br>
 CWL in separate clan <br>
 Donations: 1300 donations/reqs minimum<br>
 **Leader**: Thxbault <br>
@@ -92,7 +92,7 @@ Donations: 1300 donations/reqs minimum<br>
 
 **INFO:**<br>
 Clash of stats: [Link](https://www.clashofstats.com/clans/war-snipers-2.7-PU9PLQJ2/summary)<br>
-Rules: [Click here](https://www.warsnipers.com/clans/27)<br>
+Rules: [Click here](https://www.warsnipers.com/clans/2e)<br>
 CWL in separate clan <br>
 Donations: 1300 donations/reqs minimum<br>
 **Leader**: Thxbault <br>
@@ -104,7 +104,7 @@ Donations: 1300 donations/reqs minimum<br>
 
 **INFO:**<br>
 Clash of stats: [Link](https://www.clashofstats.com/clans/war-snipers-2.7-PU9PLQJ2/summary)<br>
-Rules: [Click here](https://www.warsnipers.com/clans/27)<br>
+Rules: [Click here](https://www.warsnipers.com/clans/2g)<br>
 CWL in separate clan <br>
 Donations: 1300 donations/reqs minimum<br>
 **Leader**: Thxbault <br>
@@ -116,7 +116,7 @@ Donations: 1300 donations/reqs minimum<br>
 
 **INFO:**<br>
 Clash of stats: [Link](https://www.clashofstats.com/clans/war-snipers-2.7-PU9PLQJ2/summary)<br>
-Rules: [Click here](https://www.warsnipers.com/clans/27)<br>
+Rules: [Click here](https://www.warsnipers.com/clans/2h)<br>
 No CWL<br>
 Donations: N/A<br>
 **Leader**: Justin - Thxbault <br>
