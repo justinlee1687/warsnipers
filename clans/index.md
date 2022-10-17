@@ -9,17 +9,19 @@ header:
   actions:
     - label: "Join our Discord"
       url: "/discord"
-  excerpt: "placeholder text"
+  excerpt: "useless text"
 intro:
-  - excerpt: 'Placeholder text about list of clans'
+  - excerpt: 'List of our clans below. You will have to join our discord to be part of them. Each clan is run by a leader and rules may change between the clans.'
 feature_row:
   - image_path: /assets/images/logoblank.png
-    alt: "placeholder image 1"
     title: "War Snipers 2.4"
     url: "/clans/24"
     btn_label: "Read More"
     btn_class: "btn--primary"
-    excerpt: "**Lead:** Mbehtiop"
+    excerpt: "**Lead:** Mbehtiop
+    **FWA**
+    **text**"
+feature_row2:
   - image_path: /assets/images/logoblank.png
     alt: "placeholder image 2"
     title: "War Snipers 2.7"
@@ -27,13 +29,14 @@ feature_row:
     url: "/clans/27"
     btn_label: "Read More"
     btn_class: "btn--primary"
+feature_row3:
   - image_path: /assets/images/logoblank.png
     title: "War Snipers 2.8"
     url: "/clans/28"
     btn_label: "Read More"
     btn_class: "btn--primary"
     excerpt: "**Lead:**Justin"
-feature_row2:
+feature_row4:
   - image_path: /assets/images/logoblank.png
     alt: "placeholder image 1"
     title: "War Snipers 2.A"
@@ -41,6 +44,7 @@ feature_row2:
     btn_label: "Read More"
     btn_class: "btn--primary"
     excerpt: "**Lead:** Me$h"
+feature_row5:
   - image_path: /assets/images/logoblank.png
     alt: "placeholder image 2"
     title: "War Snipers 2.B"
@@ -48,13 +52,14 @@ feature_row2:
     url: "/clans/2B"
     btn_label: "Read More"
     btn_class: "btn--primary"
+feature_row6:
   - image_path: /assets/images/logoblank.png
     title: "War Snipers 2.D"
     url: "/clans/2D"
     btn_label: "Read More"
     btn_class: "btn--primary"
     excerpt: "**Lead:** I2_frosty"
-feature_row3:
+feature_row7:
   - image_path: /assets/images/logoblank.png
     alt: "placeholder image 1"
     title: "War Snipers 2.E"
@@ -62,6 +67,7 @@ feature_row3:
     btn_label: "Read More"
     btn_class: "btn--primary"
     excerpt: "**Lead:** ItsMe AK"
+feature_row8:
   - image_path: /assets/images/logoblank.png
     alt: "placeholder image 2"
     title: "War Snipers 2.G"
