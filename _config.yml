@@ -36,10 +36,14 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
   - jekyll-include-cache
+  - jemoji
 
 logo: "/assets/images/logolvl25.png"
 
 minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+
+emoji:
+    src: "/assets/images/emoji"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
