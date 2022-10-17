@@ -3,9 +3,6 @@ layout: single
 permalink: /clans/
 title: War Snipers clans
 date: 2022-08-29T19:15:00-00:00
-toc: true
-toc_label: "Clans list"
-author_profile: false
 author: Thxbault
 classes: wide
 categories: Clans
@@ -20,12 +17,11 @@ List of our clans below. They are all using discord. You have to join discord to
 {% include figure image_path="https://i.imgur.com/vSF6AYP.jpg" alt="this is a placeholder image" caption="This is a figure caption." %}
 
 
-
 **INFO:**
-Clash of stats link
-Rules link
-CWL in separate clan
-Leader: Thxbault
+Clash of stats link <br>
+Rules link <br>
+CWL in separate clan <br>
+Leader: Thxbault <br>
 
 ***
 
@@ -33,10 +29,10 @@ Leader: Thxbault
 
 
 **INFO:**
-Clash of stats link
-Rules link
-CWL in separate clan
-Leader: Thxbault
+Clash of stats link <br>
+Rules link <br>
+CWL in separate clan <br>
+Leader: Thxbault <br>
 
 ***
 
@@ -44,10 +40,10 @@ Leader: Thxbault
 
 
 **INFO:**
-Clash of stats link
-Rules link
-CWL in separate clan
-Leader: Thxbault
+Clash of stats link <br>
+Rules link <br>
+CWL in separate clan <br>
+Leader: Thxbault <br>
 
 ***
 
@@ -55,10 +51,10 @@ Leader: Thxbault
 
 
 **INFO:**
-Clash of stats link
-Rules link
-CWL in separate clan
-Leader: Thxbault
+Clash of stats link <br>
+Rules link <br>
+CWL in separate clan <br>
+Leader: Thxbault <br>
  
  
 
