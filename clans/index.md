@@ -7,6 +7,7 @@ author: Thxbault
 classes: wide
 categories: Clans
 tags: clans
+show_date: false
 ---
 
 List of our clans below. They are all using discord. You have to join discord to be part of our clans. Each clan is have a set of rules, and they are different between all our clans. 
@@ -18,8 +19,8 @@ List of our clans below. They are all using discord. You have to join discord to
 
 
 **INFO:**
-Clash of stats link <br>
-Rules link <br>
+Clash of stats: [Link](https://www.clashofstats.com/clans/war-snipers-2.7-PU9PLQJ2/summary){: .btn .btn--primary} <br>
+Rules: [Click here](https://www.warsnipers.com/clans/27){: .btn .btn--primary} <br>
 CWL in separate clan <br>
 Leader: Thxbault <br>
 
@@ -29,8 +30,8 @@ Leader: Thxbault <br>
 
 
 **INFO:**
-Clash of stats link <br>
-Rules link <br>
+Clash of stats: [Link](https://www.clashofstats.com/clans/war-snipers-2.7-PU9PLQJ2/summary){: .btn .btn--primary} <br>
+Rules: [Click here](https://www.warsnipers.com/clans/27){: .btn .btn--primary} <br>
 CWL in separate clan <br>
 Leader: Thxbault <br>
 
@@ -40,8 +41,8 @@ Leader: Thxbault <br>
 
 
 **INFO:**
-Clash of stats link <br>
-Rules link <br>
+Clash of stats: [Link](https://www.clashofstats.com/clans/war-snipers-2.7-PU9PLQJ2/summary){: .btn .btn--primary} <br>
+Rules: [Click here](https://www.warsnipers.com/clans/27){: .btn .btn--primary} <br>
 CWL in separate clan <br>
 Leader: Thxbault <br>
 
@@ -51,8 +52,8 @@ Leader: Thxbault <br>
 
 
 **INFO:**
-Clash of stats link <br>
-Rules link <br>
+Clash of stats: [Link](https://www.clashofstats.com/clans/war-snipers-2.7-PU9PLQJ2/summary){: .btn .btn--primary} <br>
+Rules: [Click here](https://www.warsnipers.com/clans/27){: .btn .btn--primary} <br>
 CWL in separate clan <br>
 Leader: Thxbault <br>
  
