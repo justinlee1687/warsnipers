@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: single2
 permalink: /clans/
 title: War Snipers clans
 date: 2022-08-29T19:15:00-00:00
@@ -10,7 +10,7 @@ tags: clans
 show_date: false
 ---
 
-List of our clans below. They are all using discord. You have to join discord to be part of our clans. Each clan is have a set of rules, and they are different between all our clans. 
+List of our clans below. They are all using discord. You have to join discord to be part of our clans. Each clan is have a set of rules, and they are different between all our clans.
 
 ***
 
@@ -60,6 +60,3 @@ Rules: [Click here](https://www.warsnipers.com/clans/27){: .btn .btn--primary .b
 CWL in separate clan <br>
 Donations: 1300 donations/reqs minimum
 Leader: Thxbault <br>
- 
- 
-
