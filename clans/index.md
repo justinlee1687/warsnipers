@@ -15,48 +15,108 @@ List of our clans below. They are all using discord. You have to join discord to
 ***
 
 
-{% include figure image_path="https://i.imgur.com/vSF6AYP.jpg" alt="this is a placeholder image" caption="This is a figure caption." %}
+{% include figure image_path="https://i.imgur.com/UyWwf6r.png" alt="this is a placeholder image" caption="War Snipers 2.4" %}
 
 
 **INFO:**<br>
-Clash of stats: [Link](https://www.clashofstats.com/clans/war-snipers-2.7-PU9PLQJ2/summary){: .btn .btn--primary .btn--small} <br>
-Rules: [Click here](https://www.warsnipers.com/clans/27){: .btn .btn--primary .btn--small} <br>
+Clash of stats: [Link](https://www.clashofstats.com/clans/war-snipers-2.7-PU9PLQJ2/summary)<br>
+Rules: [Click here](https://www.warsnipers.com/clans/27)<br>
 CWL in separate clan <br>
-Donations: 1300 donations/reqs minimum
-Leader: Thxbault <br>
+Donations: 1300 donations/reqs minimum<br>
+**Leader**: Thxbault <br>
 
 ***
 
-{% include figure image_path="https://i.imgur.com/vSF6AYP.jpg" alt="this is a placeholder image" caption="This is a figure caption." %}
+{% include figure image_path="https://i.imgur.com/UyWwf6r.png" alt="this is a placeholder image" caption="War Snipers 2.7" %}
 
 
 **INFO:**<br>
-Clash of stats: [Link](https://www.clashofstats.com/clans/war-snipers-2.7-PU9PLQJ2/summary){: .btn .btn--primary .btn--small} <br>
-Rules: [Click here](https://www.warsnipers.com/clans/27){: .btn .btn--primary .btn--small} <br>
+Clash of stats: [Link](https://www.clashofstats.com/clans/war-snipers-2.7-PU9PLQJ2/summary)<br>
+Rules: [Click here](https://www.warsnipers.com/clans/27)<br>
 CWL in separate clan <br>
-Donations: 1300 donations/reqs minimum
-Leader: Thxbault <br>
+Donations: 1300 donations/reqs minimum<br>
+**Leader**: Thxbault <br>
 
 ***
 
-{% include figure image_path="https://i.imgur.com/vSF6AYP.jpg" alt="this is a placeholder image" caption="This is a figure caption." %}
+{% include figure image_path="https://i.imgur.com/UyWwf6r.png" alt="this is a placeholder image" caption="War Snipers 2.8" %}
 
 
 **INFO:**<br>
-Clash of stats: [Link](https://www.clashofstats.com/clans/war-snipers-2.7-PU9PLQJ2/summary){: .btn .btn--primary .btn--small} <br>
-Rules: [Click here](https://www.warsnipers.com/clans/27){: .btn .btn--primary .btn--small} <br>
+Clash of stats: [Link](https://www.clashofstats.com/clans/war-snipers-2.7-PU9PLQJ2/summary)<br>
+Rules: [Click here](https://www.warsnipers.com/clans/27)<br>
 CWL in separate clan <br>
-Donations: 1300 donations/reqs minimum
-Leader: Thxbault <br>
+Donations: 1300 donations/reqs minimum<br>
+**Leader**: Thxbault <br>
 
 ***
 
-{% include figure image_path="https://i.imgur.com/vSF6AYP.jpg" alt="this is a placeholder image" caption="This is a figure caption." %}
+{% include figure image_path="https://i.imgur.com/UyWwf6r.png" alt="this is a placeholder image" caption="War Snipers 2.A" %}
 
 
 **INFO:**<br>
-Clash of stats: [Link](https://www.clashofstats.com/clans/war-snipers-2.7-PU9PLQJ2/summary){: .btn .btn--primary .btn--small} <br>
-Rules: [Click here](https://www.warsnipers.com/clans/27){: .btn .btn--primary .btn--small} <br>
+Clash of stats: [Link](https://www.clashofstats.com/clans/war-snipers-2.7-PU9PLQJ2/summary)<br>
+Rules: [Click here](https://www.warsnipers.com/clans/27)<br>
 CWL in separate clan <br>
-Donations: 1300 donations/reqs minimum
-Leader: Thxbault <br>
+Donations: 1300 donations/reqs minimum<br>
+**Leader**: Thxbault <br>
+
+***
+
+{% include figure image_path="https://i.imgur.com/UyWwf6r.png" alt="this is a placeholder image" caption="War Snipers 2.B" %}
+
+
+**INFO:**<br>
+Clash of stats: [Link](https://www.clashofstats.com/clans/war-snipers-2.7-PU9PLQJ2/summary)<br>
+Rules: [Click here](https://www.warsnipers.com/clans/27)<br>
+CWL in separate clan <br>
+Donations: 1300 donations/reqs minimum<br>
+**Leader**: Thxbault <br>
+
+***
+
+{% include figure image_path="https://i.imgur.com/UyWwf6r.png" alt="this is a placeholder image" caption="War Snipers 2.D" %}
+
+
+**INFO:**<br>
+Clash of stats: [Link](https://www.clashofstats.com/clans/war-snipers-2.7-PU9PLQJ2/summary)<br>
+Rules: [Click here](https://www.warsnipers.com/clans/27)<br>
+CWL in separate clan <br>
+Donations: 1300 donations/reqs minimum<br>
+**Leader**: Thxbault <br>
+
+***
+
+{% include figure image_path="https://i.imgur.com/UyWwf6r.png" alt="this is a placeholder image" caption="War Snipers 2.E" %}
+
+
+**INFO:**<br>
+Clash of stats: [Link](https://www.clashofstats.com/clans/war-snipers-2.7-PU9PLQJ2/summary)<br>
+Rules: [Click here](https://www.warsnipers.com/clans/27)<br>
+CWL in separate clan <br>
+Donations: 1300 donations/reqs minimum<br>
+**Leader**: Thxbault <br>
+
+***
+
+{% include figure image_path="https://i.imgur.com/UyWwf6r.png" alt="this is a placeholder image" caption="War Snipers 2.G" %}
+
+
+**INFO:**<br>
+Clash of stats: [Link](https://www.clashofstats.com/clans/war-snipers-2.7-PU9PLQJ2/summary)<br>
+Rules: [Click here](https://www.warsnipers.com/clans/27)<br>
+CWL in separate clan <br>
+Donations: 1300 donations/reqs minimum<br>
+**Leader**: Thxbault <br>
+
+***
+
+{% include figure image_path="https://i.imgur.com/UyWwf6r.png" alt="this is a placeholder image" caption="War Snipers 2.H - Feeder clan" %}
+
+
+**INFO:**<br>
+Clash of stats: [Link](https://www.clashofstats.com/clans/war-snipers-2.7-PU9PLQJ2/summary)<br>
+Rules: [Click here](https://www.warsnipers.com/clans/27)<br>
+No CWL<br>
+Donations: N/A<br>
+**Leader**: Justin - Thxbault <br>
