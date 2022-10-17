@@ -34,7 +34,7 @@ feature_row:
     url: "https://www.reddit.com/r/WarSnipers/"
     btn_label: "r/WarSnipers"
     btn_class: "btn--primary"
-feature_row2:
+feature_row:
   - image_path: https://i.imgur.com/C5eHOrz.png
     alt: "A Big Communityy"
     title: "A Big Communityy"
@@ -60,7 +60,3 @@ feature_row2:
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
-
-{% include feature_row2 type="center" %}
-
-{% include feature_row2 %}
