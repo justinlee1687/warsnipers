@@ -1,80 +1,41 @@
 ---
+title: "War Snipers Clash"
 layout: splash
-permalink: /clans/
-title: "War Snipers Clans"
+permalink: /home/
+date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/logoblank.png
+  overlay_image: https://i.imgur.com/4uj3YzP.png
   actions:
-    - label: "Join our Discord"
-      url: "/discord"
-  excerpt: "placeholder text"
+    - label: "Join us today"
+      url: "/discord/"
+excerpt: "War Snipers is a group of clans that has been part of the war farming community for many years in the mobile game Clash of Clans. Currently, we war farm in the Farm War Alliance."
 intro:
-  - excerpt: 'Placeholder text about list of clans'
+  - excerpt: 'AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA'
 feature_row:
-  - image_path: /assets/images/logoblank.png
-    alt: "placeholder image 1"
-    title: "War Snipers 2.4"
-    url: "/clans/24"
-    btn_label: "Read More"
+  - image_path: https://i.imgur.com/C5eHOrz.png
+    alt: "A Big Community"
+    title: "A Big Community"
+    excerpt: "Be apart of our clans, and join more than 400 players around the world today!"
+    url: "/clans/"
+    btn_label: "Our Clans"
     btn_class: "btn--primary"
-    excerpt: "**Lead:** Mbehtiop"
-  - image_path: /assets/images/logoblank.png
-    alt: "placeholder image 2"
-    title: "War Snipers 2.7"
-    excerpt: "**Lead:** Thxbault"
-    url: "/clans/27"
-    btn_label: "Read More"
+  - image_path: https://i.imgur.com/ebiRz1q.png
+    alt: "CWL and FWA at the same time"
+    title: "Unique CWL experience"
+    excerpt: "Doing CWL and FWA simultaneously, it was pioneered by 2.G's iss114 in August 2019 before adopted by much of the wider FWA community"
+    url: "/cwl"
+    btn_label: "Learn More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/logoblank.png
-    title: "War Snipers 2.8"
-    url: "/clans/28"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-    excerpt: "**Lead:**Justin"
-feature_row2:
-  - image_path: /assets/images/logoblank.png
-    alt: "placeholder image 1"
-    title: "War Snipers 2.A"
-    url: "/clans/2A"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-    excerpt: "**Lead:** Me$h"
-  - image_path: /assets/images/logoblank.png
-    alt: "placeholder image 2"
-    title: "War Snipers 2.B"
-    excerpt: "**Lead:** Justin"
-    url: "/clans/2B"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/logoblank.png
-    title: "War Snipers 2.D"
-    url: "/clans/2D"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-    excerpt: "**Lead:** I2_frosty"
-feature_row3:
-  - image_path: /assets/images/logoblank.png
-    alt: "placeholder image 1"
-    title: "War Snipers 2.E"
-    url: "/clans/2E"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-    excerpt: "**Lead:** ItsMe AK"
-  - image_path: /assets/images/logoblank.png
-    alt: "placeholder image 2"
-    title: "War Snipers 2.G"
-    excerpt: "**Lead:** WilliamLC"
-    url: "/clans/2G"
-    btn_label: "Read More"
+  - image_path: https://i.imgur.com/kVwrvZK.jpg
+    title: "Join our Subreddit"
+    excerpt: "We have a subreddit where we post news and relevant information about our clans."
+    url: "https://www.reddit.com/r/WarSnipers/"
+    btn_label: "r/WarSnipers"
     btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
-
-{% include feature_row id="feature_row2" %}
-
-{% include feature_row id="feature_row3" %}
