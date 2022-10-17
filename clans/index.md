@@ -16,12 +16,9 @@ List of our clans below. They are all using discord. You have to join discord to
 
 ***
 
-gallery:
-  - url: https://i.imgur.com/vSF6AYP.jpg
-    image_path: https://i.imgur.com/vSF6AYP.jpg
-    alt: "WS"
 
-{% include gallery id="gallery1" caption="War Snipers 2.7" %}
+{% include figure image_path="https://i.imgur.com/vSF6AYP.jpg" alt="this is a placeholder image" caption="This is a figure caption." %}
+
 
 
 **INFO:**
@@ -32,7 +29,7 @@ Leader: Thxbault
 
 ***
 
-{% include gallery id="gallery1" caption="War Snipers 2.7" %}
+{% include figure image_path="https://i.imgur.com/vSF6AYP.jpg" alt="this is a placeholder image" caption="This is a figure caption." %}
 
 
 **INFO:**
@@ -43,7 +40,7 @@ Leader: Thxbault
 
 ***
 
-{% include gallery id="gallery1" caption="War Snipers 2.7" %}
+{% include figure image_path="https://i.imgur.com/vSF6AYP.jpg" alt="this is a placeholder image" caption="This is a figure caption." %}
 
 
 **INFO:**
@@ -54,7 +51,7 @@ Leader: Thxbault
 
 ***
 
-{% include gallery id="gallery1" caption="War Snipers 2.7" %}
+{% include figure image_path="https://i.imgur.com/vSF6AYP.jpg" alt="this is a placeholder image" caption="This is a figure caption." %}
 
 
 **INFO:**
