@@ -34,58 +34,12 @@ feature_row:
     url: "https://www.reddit.com/r/WarSnipers/"
     btn_label: "r/WarSnipers"
     btn_class: "btn--primary"
-feature_row2:
-  - image_path: https://i.imgur.com/C5eHOrz.png
-    alt: "A Big Communityy"
-    title: "A Big Communityy"
-    excerpt: "Be apart of our clans, and join more than 400 players around the world today!"
-    url: "/clans/"
-    btn_label: "Our Clans"
-    btn_class: "btn--primary"
-  - image_path: https://i.imgur.com/ebiRz1q.png
-    alt: "CWL and FWA at the same timee"
-    title: "Unique CWL experiencee"
-    excerpt: "Doing CWL and FWA simultaneously, it was pioneered by 2.G's iss114 in August 2019 before adopted by much of the wider FWA community"
-    url: "/cwl"
-    btn_label: "Learn Moree"
-    btn_class: "btn--primary"
-  - image_path: https://i.imgur.com/kVwrvZK.jpg
-    title: "Join our Subredditt"
-    excerpt: "We have a subreddit where we post news and relevant information about our clans."
-    url: "https://www.reddit.com/r/WarSnipers/"
-    btn_label: "r/WarSnipers"
-    btn_class: "btn--primary"
-  feature_row3:
-    - image_path: https://i.imgur.com/C5eHOrz.png
-      alt: "A Big Communityy"
-      title: "A Big Communityy"
-      excerpt: "Be apart of our clans, and join more than 400 players around the world today!"
-      url: "/clans/"
-      btn_label: "Our Clans"
-      btn_class: "btn--primary"
-    - image_path: https://i.imgur.com/ebiRz1q.png
-      alt: "CWL and FWA at the same timee"
-      title: "Unique CWL experiencee"
-      excerpt: "Doing CWL and FWA simultaneously, it was pioneered by 2.G's iss114 in August 2019 before adopted by much of the wider FWA community"
-      url: "/cwl"
-      btn_label: "Learn Moree"
-      btn_class: "btn--primary"
-    - image_path: https://i.imgur.com/kVwrvZK.jpg
-      title: "Join our Subredditt"
-      excerpt: "We have a subreddit where we post news and relevant information about our clans."
-      url: "https://www.reddit.com/r/WarSnipers/"
-      btn_label: "r/WarSnipers"
-      btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
 
-{% include feature_row2 type="center" %}
-
 {% include feature_row2 %}
-
-{% include feature_row3 type="center" %}
 
 {% include feature_row3 %}
