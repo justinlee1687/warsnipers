@@ -1,122 +1,67 @@
 ---
-layout: single2
-permalink: /clans/
-title: War Snipers clans
-date: 2022-08-29T19:15:00-00:00
-author: Thxbault
-classes: wide
-categories: Clans
-tags: clans
-show_date: false
+title: "War Snipers Clash"
+layout: splash
+permalink: /clans
+date: 2016-03-23T11:48:41-04:00
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: https://i.imgur.com/4uj3YzP.png
+  actions:
+    - label: "Join us today"
+      url: "/discord/"
+excerpt: "You can see a list of all our clans below."
+feature_row:
+  - image_path: https://i.imgur.com/kVwrvZK.jpg
+    title: "War Snipers 2.4"
+    excerpt: "**Tag**: #9P290VUJ<br>CWL in seperate clans<br>**Leader**: mbehtiop"
+    url: "/clans/24"
+    btn_label: "Visit Clan Page"
+    btn_class: "btn--primary"
+  - image_path: https://i.imgur.com/kVwrvZK.jpg
+    title: "War Snipers 2.7"
+    excerpt: "**Tag**: #PU9PLQJ2<br>CWL in seperate clans<br>**Leader**: Thxbault"
+    url: "/clans/27"
+    btn_label: "Visit Clan Page"
+    btn_class: "btn--primary"
+  - image_path: https://i.imgur.com/kVwrvZK.jpg
+    title: "War Snipers 2.8"
+    excerpt: "**Tag**: #PL0YQG2V0<br>CWL in seperate clans<br>**Leader**: Justin"
+    url: "/clans/28"
+    btn_label: "Visit Clan Page"
+    btn_class: "btn--primary"
+  - image_path: https://i.imgur.com/kVwrvZK.jpg
+    title: "War Snipers 2.A"
+    excerpt: "**Tag**: #PQ22VVPU<br>CWL in seperate clans<br>**Leader**: Me$h"
+    url: "/clans/2A"
+    btn_label: "Visit Clan Page"
+    btn_class: "btn--primary"
+  - image_path: https://i.imgur.com/kVwrvZK.jpg
+    title: "War Snipers 2.B"
+    excerpt: "**Tag**: #YUPUC2UU<br>CWL in seperate clans<br>**Leader**: Justin"
+    url: "/clans/2B"
+    btn_label: "Visit Clan Page"
+    btn_class: "btn--primary"
+  - image_path: https://i.imgur.com/kVwrvZK.jpg
+    title: "War Snipers 2.D"
+    excerpt: "**Tag**: #L2Y02L98<br>CWL in seperate clans<br>**Leader**: I2_frosty"
+    url: "/clans/2D"
+    btn_label: "Visit Clan Page"
+    btn_class: "btn--primary"
+  - image_path: https://i.imgur.com/kVwrvZK.jpg
+    title: "War Snipers 2.E"
+    excerpt: "**Tag**: #L2L9PQY0<br>CWL in seperate clans<br>**Leader**: ItsMe AK"
+    url: "/clans/2E"
+    btn_label: "Visit Clan Page"
+    btn_class: "btn--primary"
+  - image_path: https://i.imgur.com/kVwrvZK.jpg
+    title: "War Snipers 2.G"
+    excerpt: "**Tag**: #298VGUJ2<br>CWL in seperate clans<br>**Leader**: WilliamLC"
+    url: "/clans/2G"
+    btn_label: "Visit Clan Page"
+    btn_class: "btn--primary"
 ---
 
-List of our clans below. They are all using discord. You have to join discord to be part of our clans. Each clan is have a set of rules, and they are different between all our clans.
+{% include feature_row id="intro" type="center" %}
 
-***
-
-
-{% include figure image_path="https://i.imgur.com/UyWwf6r.png" alt="this is a placeholder image" caption="War Snipers 2.4" %}
-
-
-**INFO:**<br>
-Clash of stats: [Link](https://www.clashofstats.com/clans/war-snipers-2.7-PU9PLQJ2/summary)<br>
-Rules: [Click here](https://www.warsnipers.com/clans/24)<br>
-CWL in separate clan <br>
-Donations: 1300 donations/reqs minimum<br>
-**Leader**: Thxbault <br>
-
-***
-
-{% include figure image_path="https://i.imgur.com/UyWwf6r.png" alt="this is a placeholder image" caption="War Snipers 2.7" %}
-
-
-**INFO:**<br>
-Clash of stats: [Link](https://www.clashofstats.com/clans/war-snipers-2.7-PU9PLQJ2/summary)<br>
-Rules: [Click here](https://www.warsnipers.com/clans/27)<br>
-CWL in separate clan <br>
-Donations: 1300 donations/reqs minimum<br>
-**Leader**: Thxbault <br>
-
-***
-
-{% include figure image_path="https://i.imgur.com/UyWwf6r.png" alt="this is a placeholder image" caption="War Snipers 2.8" %}
-
-
-**INFO:**<br>
-Clash of stats: [Link](https://www.clashofstats.com/clans/war-snipers-2.7-PU9PLQJ2/summary)<br>
-Rules: [Click here](https://www.warsnipers.com/clans/28)<br>
-CWL in separate clan <br>
-Donations: 1300 donations/reqs minimum<br>
-**Leader**: Thxbault <br>
-
-***
-
-{% include figure image_path="https://i.imgur.com/UyWwf6r.png" alt="this is a placeholder image" caption="War Snipers 2.A" %}
-
-
-**INFO:**<br>
-Clash of stats: [Link](https://www.clashofstats.com/clans/war-snipers-2.7-PU9PLQJ2/summary)<br>
-Rules: [Click here](https://www.warsnipers.com/clans/2a)<br>
-CWL in separate clan <br>
-Donations: 1300 donations/reqs minimum<br>
-**Leader**: Thxbault <br>
-
-***
-
-{% include figure image_path="https://i.imgur.com/UyWwf6r.png" alt="this is a placeholder image" caption="War Snipers 2.B" %}
-
-
-**INFO:**<br>
-Clash of stats: [Link](https://www.clashofstats.com/clans/war-snipers-2.7-PU9PLQJ2/summary)<br>
-Rules: [Click here](https://www.warsnipers.com/clans/2b)<br>
-CWL in separate clan <br>
-Donations: 1300 donations/reqs minimum<br>
-**Leader**: Thxbault <br>
-
-***
-
-{% include figure image_path="https://i.imgur.com/UyWwf6r.png" alt="this is a placeholder image" caption="War Snipers 2.D" %}
-
-
-**INFO:**<br>
-Clash of stats: [Link](https://www.clashofstats.com/clans/war-snipers-2.7-PU9PLQJ2/summary)<br>
-Rules: [Click here](https://www.warsnipers.com/clans/2d)<br>
-CWL in separate clan <br>
-Donations: 1300 donations/reqs minimum<br>
-**Leader**: Thxbault <br>
-
-***
-
-{% include figure image_path="https://i.imgur.com/UyWwf6r.png" alt="this is a placeholder image" caption="War Snipers 2.E" %}
-
-
-**INFO:**<br>
-Clash of stats: [Link](https://www.clashofstats.com/clans/war-snipers-2.7-PU9PLQJ2/summary)<br>
-Rules: [Click here](https://www.warsnipers.com/clans/2e)<br>
-CWL in separate clan <br>
-Donations: 1300 donations/reqs minimum<br>
-**Leader**: Thxbault <br>
-
-***
-
-{% include figure image_path="https://i.imgur.com/UyWwf6r.png" alt="this is a placeholder image" caption="War Snipers 2.G" %}
-
-
-**INFO:**<br>
-Clash of stats: [Link](https://www.clashofstats.com/clans/war-snipers-2.7-PU9PLQJ2/summary)<br>
-Rules: [Click here](https://www.warsnipers.com/clans/2g)<br>
-CWL in separate clan <br>
-Donations: 1300 donations/reqs minimum<br>
-**Leader**: Thxbault <br>
-
-***
-
-{% include figure image_path="https://i.imgur.com/UyWwf6r.png" alt="this is a placeholder image" caption="War Snipers 2.H - Feeder clan" %}
-
-
-**INFO:**<br>
-Clash of stats: [Link](https://www.clashofstats.com/clans/war-snipers-2.7-PU9PLQJ2/summary)<br>
-Rules: [Click here](https://www.warsnipers.com/clans/2h)<br>
-No CWL<br>
-Donations: N/A<br>
-**Leader**: Justin - Thxbault <br>
+{% include feature_row %}
