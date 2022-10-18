@@ -14,7 +14,7 @@ List of our clans below. They are all using discord. You have to join discord to
 
 ***
 
-{% include figure image_path="https://i.imgur.com/UyWwf6r.png" caption="War Snipers 2.4" %}
+{% include figure image_path="https://i.imgur.com/hQ3URNr.png" caption="War Snipers 2.4" %}
 
 **INFO:**<br>
 Clash of stats: [Link](https://www.clashofstats.com/clans/war-snipers-2.7-PU9PLQJ2/summary)<br>
@@ -30,7 +30,7 @@ Clash of stats: [Link](https://www.clashofstats.com/clans/war-snipers-2.7-PU9PLQ
 
 ***
 
-{% include figure image_path="https://i.imgur.com/UyWwf6r.png" caption="War Snipers 2.8" %}
+{% include figure image_path="https://i.imgur.com/QTdWTLA.png" caption="War Snipers 2.8" %}
 
 **INFO:**<br>
 Clash of stats: [Link](https://www.clashofstats.com/clans/war-snipers-2.7-PU9PLQJ2/summary)<br>
@@ -38,7 +38,7 @@ Clash of stats: [Link](https://www.clashofstats.com/clans/war-snipers-2.7-PU9PLQ
 
 ***
 
-{% include figure image_path="https://i.imgur.com/UyWwf6r.png" caption="War Snipers 2.A" %}
+{% include figure image_path="https://i.imgur.com/M7U5o0X.png" caption="War Snipers 2.A" %}
 
 **INFO:**<br>
 Clash of stats: [Link](https://www.clashofstats.com/clans/war-snipers-2.7-PU9PLQJ2/summary)<br>
@@ -46,7 +46,7 @@ Clash of stats: [Link](https://www.clashofstats.com/clans/war-snipers-2.7-PU9PLQ
 
 ***
 
-{% include figure image_path="https://i.imgur.com/UyWwf6r.png" caption="War Snipers 2.B" %}
+{% include figure image_path="https://i.imgur.com/lfaYDUR.png" caption="War Snipers 2.B" %}
 
 **INFO:**<br>
 Clash of stats: [Link](https://www.clashofstats.com/clans/war-snipers-2.7-PU9PLQJ2/summary)<br>
@@ -54,7 +54,7 @@ Clash of stats: [Link](https://www.clashofstats.com/clans/war-snipers-2.7-PU9PLQ
 
 ***
 
-{% include figure image_path="https://i.imgur.com/UyWwf6r.png" caption="War Snipers 2.D" %}
+{% include figure image_path="https://i.imgur.com/qz0UHMu.png" caption="War Snipers 2.D" %}
 
 **INFO:**<br>
 Clash of stats: [Link](https://www.clashofstats.com/clans/war-snipers-2.7-PU9PLQJ2/summary)<br>
@@ -62,7 +62,7 @@ Clash of stats: [Link](https://www.clashofstats.com/clans/war-snipers-2.7-PU9PLQ
 
 ***
 
-{% include figure image_path="https://i.imgur.com/UyWwf6r.png" caption="War Snipers 2.E" %}
+{% include figure image_path="https://i.imgur.com/x27ddkg.png" caption="War Snipers 2.E" %}
 
 **INFO:**<br>
 Clash of stats: [Link](https://www.clashofstats.com/clans/war-snipers-2.7-PU9PLQJ2/summary)<br>
@@ -70,7 +70,7 @@ Clash of stats: [Link](https://www.clashofstats.com/clans/war-snipers-2.7-PU9PLQ
 
 ***
 
-{% include figure image_path="https://i.imgur.com/UyWwf6r.png" caption="War Snipers 2.G" %}
+{% include figure image_path="https://i.imgur.com/cmEIWWY.png" caption="War Snipers 2.G" %}
 
 **INFO:**<br>
 Clash of stats: [Link](https://www.clashofstats.com/clans/war-snipers-2.7-PU9PLQJ2/summary)<br>
