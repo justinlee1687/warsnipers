@@ -55,7 +55,7 @@ feature_row2:
     url: "https://www.reddit.com/r/WarSnipers/"
     btn_label: "r/WarSnipers"
     btn_class: "btn--primary"
-  feature_row2:
+  feature_row3:
     - image_path: https://i.imgur.com/C5eHOrz.png
       alt: "A Big Communityy"
       title: "A Big Communityy"
