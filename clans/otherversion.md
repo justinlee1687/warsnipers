@@ -1,7 +1,7 @@
 ---
 title: "War Snipers Clash"
 layout: splash
-permalink: /clans/
+permalink: /clans/test
 date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
@@ -12,7 +12,7 @@ header:
       url: "/discord/"
 excerpt: "You can see a list of all our clans below."
 feature_row:
-  - image_path: https://i.imgur.com/UyWwf6r.png
+  - image_path: https://i.imgur.com/hQ3URNr.png
     title: "War Snipers 2.4"
     excerpt: "**Tag**: #9P290VUJ<br>CWL in seperate clans<br>**Leader**: mbehtiop"
     url: "/clans/24"
@@ -24,37 +24,37 @@ feature_row:
     url: "/clans/27"
     btn_label: "Visit Clan Page"
     btn_class: "btn--primary"
-  - image_path: https://i.imgur.com/UyWwf6r.png
+  - image_path: https://i.imgur.com/QTdWTLA.png
     title: "War Snipers 2.8"
-    excerpt: "**Tag**: #PL0YQG2V0<br>CWL in seperate clans<br>**Leader**: Justin"
+    excerpt: "**Tag**: #PL0YQG2V0<br>CWL in seperate clans<br>**Leader**: justinlee1687"
     url: "/clans/28"
     btn_label: "Visit Clan Page"
     btn_class: "btn--primary"
-  - image_path: https://i.imgur.com/UyWwf6r.png
+  - image_path: https://i.imgur.com/M7U5o0X.png
     title: "War Snipers 2.A"
     excerpt: "**Tag**: #PQ22VVPU<br>CWL in seperate clans<br>**Leader**: Me$h"
     url: "/clans/2A"
     btn_label: "Visit Clan Page"
     btn_class: "btn--primary"
-  - image_path: https://i.imgur.com/UyWwf6r.png
+  - image_path: https://i.imgur.com/lfaYDUR.png
     title: "War Snipers 2.B"
-    excerpt: "**Tag**: #YUPUC2UU<br>CWL in seperate clans<br>**Leader**: Justin"
+    excerpt: "**Tag**: #YUPUC2UU<br>CWL in seperate clans<br>**Leader**: NovaHunter12 (Justin)"
     url: "/clans/2B"
     btn_label: "Visit Clan Page"
     btn_class: "btn--primary"
-  - image_path: https://i.imgur.com/UyWwf6r.png
+  - image_path: https://i.imgur.com/qz0UHMu.png
     title: "War Snipers 2.D"
     excerpt: "**Tag**: #L2Y02L98<br>CWL in seperate clans<br>**Leader**: I2_frosty"
     url: "/clans/2D"
     btn_label: "Visit Clan Page"
     btn_class: "btn--primary"
-  - image_path: https://i.imgur.com/UyWwf6r.png
+  - image_path: https://i.imgur.com/x27ddkg.png
     title: "War Snipers 2.E"
     excerpt: "**Tag**: #L2L9PQY0<br>CWL in seperate clans<br>**Leader**: ItsMe AK"
     url: "/clans/2E"
     btn_label: "Visit Clan Page"
     btn_class: "btn--primary"
-  - image_path: https://i.imgur.com/UyWwf6r.png
+  - image_path: https://i.imgur.com/cmEIWWY.png
     title: "War Snipers 2.G"
     excerpt: "**Tag**: #298VGUJ2<br>CWL in seperate clans<br>**Leader**: WilliamLC"
     url: "/clans/2G"
