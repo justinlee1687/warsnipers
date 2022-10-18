@@ -10,41 +10,55 @@ header:
   actions:
     - label: "Join us today"
       url: "/discord/"
-excerpt: "War Snipers is a group of clans that has been part of the war farming community for many years in the mobile game Clash of Clans. Currently, we war farm in the Farm War Alliance."
-intro:
-  - excerpt: 'We use Discord as our main communication app. Centralized information for everyone is provided in the discord. Additionally, all of our recruitment is also done on discord. Each clans has their own channels, while also providing global channels for members. You are welcome to join our discord to look for more information or to join our clans.'
+excerpt: "You can see a list of all our clans below."
 feature_row:
-  - image_path: https://i.imgur.com/C5eHOrz.png
-    alt: "A Big Community"
-    title: "A Big Community"
-    excerpt: "Be apart of our clans, and join more than 400 players around the world today!"
-    url: "/clans/"
-    btn_label: "Our Clans"
-    btn_class: "btn--primary"
-  - image_path: https://i.imgur.com/ebiRz1q.png
-    alt: "CWL and FWA at the same time"
-    title: "Unique CWL experience"
-    excerpt: "Doing CWL and FWA simultaneously, it was pioneered by 2.G's iss114 in August 2019 before adopted by much of the wider FWA community"
-    url: "/cwl"
-    btn_label: "Learn More"
+  - image_path: https://i.imgur.com/kVwrvZK.jpg
+    title: "War Snipers 2.4"
+    excerpt: "**Tag**:#9P290VUJ<br>CWL in seperate clans<br>**Leader**: mbehtiop"
+    url: "/clans/24"
+    btn_label: "Visit Clan Page"
     btn_class: "btn--primary"
   - image_path: https://i.imgur.com/kVwrvZK.jpg
-    title: "Join our Subreddit"
-    excerpt: "We have a subreddit where we post news and relevant information about our clans."
-    url: "https://www.reddit.com/r/WarSnipers/"
-    btn_label: "r/WarSnipers"
+    title: "War Snipers 2.7"
+    excerpt: "**Tag**:#PU9PLQJ2<br>CWL in seperate clans<br>**Leader**: Thxbault"
+    url: "/clans/27"
+    btn_label: "Visit Clan Page"
     btn_class: "btn--primary"
   - image_path: https://i.imgur.com/kVwrvZK.jpg
-    title: "Join our Subreddit"
-    excerpt: "We have a subreddit where we post news and relevant information about our clans."
-    url: "https://www.reddit.com/r/WarSnipers/"
-    btn_label: "r/WarSnipers"
+    title: "War Snipers 2.8"
+    excerpt: "**Tag**:#PL0YQG2V0<br>CWL in seperate clans<br>**Leader**: Justin"
+    url: "/clans/28"
+    btn_label: "Visit Clan Page"
+    btn_class: "btn--primary"
+	  - image_path: https://i.imgur.com/kVwrvZK.jpg
+    title: "War Snipers 2.A"
+    excerpt: "**Tag**:#PQ22VVPU<br>CWL in seperate clans<br>**Leader**: Me$h"
+    url: "/clans/2A"
+    btn_label: "Visit Clan Page"
     btn_class: "btn--primary"
   - image_path: https://i.imgur.com/kVwrvZK.jpg
-    title: "Join our Subreddit"
-    excerpt: "We have a subreddit where we post news and relevant information about our clans."
-    url: "https://www.reddit.com/r/WarSnipers/"
-    btn_label: "r/WarSnipers"
+    title: "War Snipers 2.B"
+    excerpt: "**Tag**:#YUPUC2UU<br>CWL in seperate clans<br>**Leader**: Justin"
+    url: "/clans/2B"
+    btn_label: "Visit Clan Page"
+    btn_class: "btn--primary"
+  - image_path: https://i.imgur.com/kVwrvZK.jpg
+    title: "War Snipers 2.D"
+    excerpt: "**Tag**:#L2Y02L98<br>CWL in seperate clans<br>**Leader**: I2_frosty"
+    url: "/clans/2D"
+    btn_label: "Visit Clan Page"
+    btn_class: "btn--primary"
+  - image_path: https://i.imgur.com/kVwrvZK.jpg
+    title: "War Snipers 2.E"
+    excerpt: "**Tag**:#L2L9PQY0<br>CWL in seperate clans<br>**Leader**: ItsMe AK"
+    url: "/clans/2E"
+    btn_label: "Visit Clan Page"
+    btn_class: "btn--primary"
+  - image_path: https://i.imgur.com/kVwrvZK.jpg
+    title: "War Snipers 2.G"
+    excerpt: "**Tag**:#298VGUJ2<br>CWL in seperate clans<br>**Leader**: WilliamLC"
+    url: "/clans/2G"
+    btn_label: "Visit Clan Page"
     btn_class: "btn--primary"
 ---
 
