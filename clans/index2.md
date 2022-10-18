@@ -34,6 +34,18 @@ feature_row:
     url: "https://www.reddit.com/r/WarSnipers/"
     btn_label: "r/WarSnipers"
     btn_class: "btn--primary"
+  - image_path: https://i.imgur.com/kVwrvZK.jpg
+    title: "Join our Subreddit"
+    excerpt: "We have a subreddit where we post news and relevant information about our clans."
+    url: "https://www.reddit.com/r/WarSnipers/"
+    btn_label: "r/WarSnipers"
+    btn_class: "btn--primary"
+  - image_path: https://i.imgur.com/kVwrvZK.jpg
+    title: "Join our Subreddit"
+    excerpt: "We have a subreddit where we post news and relevant information about our clans."
+    url: "https://www.reddit.com/r/WarSnipers/"
+    btn_label: "r/WarSnipers"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
