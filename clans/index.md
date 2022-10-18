@@ -1,5 +1,5 @@
 ---
-layout: single2
+layout: single
 permalink: /clans/
 title: War Snipers clans
 date: 2022-08-29T19:15:00-00:00
