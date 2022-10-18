@@ -1,6 +1,6 @@
 ---
 layout: single2
-permalink: /clans/test
+permalink: /clans/
 title: War Snipers clans
 date: 2022-08-29T19:15:00-00:00
 author: Thxbault
