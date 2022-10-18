@@ -26,7 +26,7 @@ Clash of stats: [Link](https://www.clashofstats.com/clans/war-snipers-2.7-PU9PLQ
 
 **INFO:**<br>
 Clash of stats: [Link](https://www.clashofstats.com/clans/war-snipers-2.7-PU9PLQJ2/summary)<br>
-[Visit clan page](https://www.warsnipers.com/clans/24){: .btn .btn--primary .btn--small}<br>
+[Visit clan page](https://www.warsnipers.com/clans/27){: .btn .btn--primary .btn--small}<br>
 
 ***
 
@@ -34,7 +34,7 @@ Clash of stats: [Link](https://www.clashofstats.com/clans/war-snipers-2.7-PU9PLQ
 
 **INFO:**<br>
 Clash of stats: [Link](https://www.clashofstats.com/clans/war-snipers-2.7-PU9PLQJ2/summary)<br>
-[Visit clan page](https://www.warsnipers.com/clans/24){: .btn .btn--primary .btn--small}<br>
+[Visit clan page](https://www.warsnipers.com/clans/28){: .btn .btn--primary .btn--small}<br>
 
 ***
 
@@ -42,7 +42,7 @@ Clash of stats: [Link](https://www.clashofstats.com/clans/war-snipers-2.7-PU9PLQ
 
 **INFO:**<br>
 Clash of stats: [Link](https://www.clashofstats.com/clans/war-snipers-2.7-PU9PLQJ2/summary)<br>
-[Visit clan page](https://www.warsnipers.com/clans/24){: .btn .btn--primary .btn--small}<br>
+[Visit clan page](https://www.warsnipers.com/clans/2A){: .btn .btn--primary .btn--small}<br>
 
 ***
 
@@ -50,7 +50,7 @@ Clash of stats: [Link](https://www.clashofstats.com/clans/war-snipers-2.7-PU9PLQ
 
 **INFO:**<br>
 Clash of stats: [Link](https://www.clashofstats.com/clans/war-snipers-2.7-PU9PLQJ2/summary)<br>
-[Visit clan page](https://www.warsnipers.com/clans/24){: .btn .btn--primary .btn--small}<br>
+[Visit clan page](https://www.warsnipers.com/clans/2B){: .btn .btn--primary .btn--small}<br>
 
 ***
 
@@ -58,7 +58,7 @@ Clash of stats: [Link](https://www.clashofstats.com/clans/war-snipers-2.7-PU9PLQ
 
 **INFO:**<br>
 Clash of stats: [Link](https://www.clashofstats.com/clans/war-snipers-2.7-PU9PLQJ2/summary)<br>
-[Visit clan page](https://www.warsnipers.com/clans/24){: .btn .btn--primary .btn--small}<br>
+[Visit clan page](https://www.warsnipers.com/clans/2D){: .btn .btn--primary .btn--small}<br>
 
 ***
 
@@ -66,7 +66,7 @@ Clash of stats: [Link](https://www.clashofstats.com/clans/war-snipers-2.7-PU9PLQ
 
 **INFO:**<br>
 Clash of stats: [Link](https://www.clashofstats.com/clans/war-snipers-2.7-PU9PLQJ2/summary)<br>
-[Visit clan page](https://www.warsnipers.com/clans/24){: .btn .btn--primary .btn--small}<br>
+[Visit clan page](https://www.warsnipers.com/clans/2E){: .btn .btn--primary .btn--small}<br>
 
 ***
 
@@ -74,5 +74,5 @@ Clash of stats: [Link](https://www.clashofstats.com/clans/war-snipers-2.7-PU9PLQ
 
 **INFO:**<br>
 Clash of stats: [Link](https://www.clashofstats.com/clans/war-snipers-2.7-PU9PLQJ2/summary)<br>
-[Visit clan page](https://www.warsnipers.com/clans/24){: .btn .btn--primary .btn--small}<br>
+[Visit clan page](https://www.warsnipers.com/clans/2G){: .btn .btn--primary .btn--small}<br>
 
