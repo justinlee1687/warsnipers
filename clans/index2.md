@@ -30,7 +30,7 @@ feature_row:
     url: "/clans/28"
     btn_label: "Visit Clan Page"
     btn_class: "btn--primary"
-	  - image_path: https://i.imgur.com/kVwrvZK.jpg
+  - image_path: https://i.imgur.com/kVwrvZK.jpg
     title: "War Snipers 2.A"
     excerpt: "**Tag**:#PQ22VVPU<br>CWL in seperate clans<br>**Leader**: Me$h"
     url: "/clans/2A"
