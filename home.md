@@ -10,7 +10,7 @@ header:
   actions:
     - label: "Join us today"
       url: "/discord/"
-excerpt: "War Snipers is a group of clans that has been part of the war farming community for many years in the mobile game Clash of Clans. Currently, we war farm in the Farm War Alliance."
+excerpt: "War Snipers is a group of 8 active war farming clans in the game Clash of Clans. We are a part of the Farm War Alliance."
 intro:
   - excerpt: 'We use Discord as our main communication app. Centralized information for everyone is provided in the discord. Additionally, all of our recruitment is also done on discord. Each clans has their own channels, while also providing global channels for members. You are welcome to join our discord to look for more information or to join our clans.'
 feature_row:
