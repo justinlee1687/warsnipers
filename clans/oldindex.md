@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /clans/
+permalink: /clans/test
 title: War Snipers clans
 date: 2022-08-29T19:15:00-00:00
 author: Thxbault
@@ -75,4 +75,3 @@ Clash of stats: [Link](https://www.clashofstats.com/clans/war-snipers-2.7-PU9PLQ
 **INFO:**<br>
 Clash of stats: [Link](https://www.clashofstats.com/clans/war-snipers-2.7-PU9PLQJ2/summary)<br>
 [Visit clan page](https://www.warsnipers.com/clans/2G){: .btn .btn--primary .btn--small}<br>
-
