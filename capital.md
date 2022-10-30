@@ -1,5 +1,5 @@
 ---
-title: "War Snipers Clash"
+title: "Clan capital"
 layout: splash
 permalink: /capital
 date: 2016-03-23T11:48:41-04:00
