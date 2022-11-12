@@ -4,6 +4,8 @@ main:
     url: /clans/
   - title: "About FWA"
     url: /about-fwa
+  - title: "Capital"
+    url: /capital
   - title: "Discord"
     url: /discord/
 
