@@ -56,7 +56,7 @@ feature_row:
     btn_class: "btn--primary"
   - image_path: https://i.imgur.com/x27ddkg.png
     title: "War Snipers 2.E"
-    excerpt: "**Tag**: #L2L9PQY0<br>CWL in seperate clans<br>**Leader**: ItsMe AK"
+    excerpt: "**Tag**: #L2L9PQY0<br>CWL in seperate clans<br>**Leader**: Flak"
     url: "/clans/2E"
     btn_label: "Visit Clan Page"
     btn_class: "btn--primary"
