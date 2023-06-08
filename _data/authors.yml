@@ -1,9 +1,9 @@
 WilliamLC:
-  name        : "WilliamLC"
+  name        : "Mizuki"
   bio         : "WS2.G Lead"
   avatar      : "https://cdn.discordapp.com/avatars/124654965774876673/01d839d9e564f8c88447b145b49907fc.png?size=256"
   links:
-    - label: "Mizuki#9339"
+    - label: "williamlc"
       icon: "fab fa-discord"
       url: "/discord"
 
