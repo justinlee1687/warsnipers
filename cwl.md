@@ -109,9 +109,8 @@ A: One win is one additional bonus. See table below for everything else. Always 
 
 Writing a big note especially for the lower Town Hall players having difficulty in getting stars in CWL. I am attaching 2 replays on the best strategy to be used for CWL. Most of the time you all would be able to score 2 stars in hitting a Town Hall which is higher than yours.
 
-[11v13 2 stars strategy](https://drive.google.com/file/d/1qAEFuLu-TILUOVQBExVzIpP9ET20C7sU/view?usp=drivesdk)
-
-[11v12 2 stars strategy](https://drive.google.com/file/d/1q8B0AJ6pAONZVWfDyMFstSI36cWvZdLX/view?usp=drivesdK)
+11v13 2 stars strategy:Link Removed, pending search for new one
+11v12 2 stars strategy:Link Removed, pending search for new one
 
 Points to remember:
 1. You need to be calculative on destroying the Air Defenses using lightning spells. Try to get at least 3 Air Defenses with lightning spells especially Air Defenses which are farther from the center.

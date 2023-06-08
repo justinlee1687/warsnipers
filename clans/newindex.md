@@ -14,7 +14,7 @@ excerpt: "You can see a list of all our clans below."
 feature_row:
   - image_path: https://i.imgur.com/hQ3URNr.png
     title: "War Snipers 2.0"
-    excerpt: "**Tag**: #8VLJPLC2<br>CWL in main clan<br>**Leader**: Mitch"
+    excerpt: "**Tag**: #8VLJPLC2<br>CWL in seperate clans<br>**Leader**: Branga"
     url: "/clans/20"
     btn_label: "Visit Clan Page"
     btn_class: "btn--primary"
