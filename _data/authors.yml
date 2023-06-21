@@ -12,7 +12,7 @@ Justin:
   bio         : "FWA Admin, Lead of WS2.B and WS2.8"
   avatar      : "https://cdn.discordapp.com/avatars/244447987948847109/3178298c5f4ce22eb724ea139906fdbb.png?size=256"
   links:
-    - label: "Justin#1676"
+    - label: "feelslikejustin"
       icon: "fab fa-discord"
       url: "/discord"
 
@@ -30,7 +30,7 @@ I2_frosty:
   bio         : "WS2.D Lead"
   avatar      : "https://cdn.discordapp.com/avatars/485463861965881369/dabdbbe6de17ec99cb83f77470fcbe61.png?size=256"
   links:
-    - label: "I2_frosty#9784"
+    - label: "i2_frosty"
       icon: "fab fa-discord"
       url: "/discord"
 
@@ -39,7 +39,7 @@ Thxbault:
   bio         : "WS2.7 Lead, WS2.4 Colead, WS2.0 Colead."
   avatar      : "https://cdn.discordapp.com/avatars/107413197702582272/4f4ae31ee7f6549681040a333afc0835.webp?size=512"
   links:
-    - label: "Thxbault#7875"
+    - label: "thxbault"
       icon: "fab fa-discord"
       url: "/discord"
 
@@ -48,15 +48,24 @@ mbehtiop:
   bio         : "WS2.4 Lead"
   avatar      : "https://cdn.discordapp.com/avatars/260507246323040259/b372b26c4fbcfc87fea9bad65e39405c.png?size=256"
   links:
-    - label: "Anonny#0001"
+    - label: "annony"
       icon: "fab fa-discord"
       url: "/discord"
 
-ItsMe AK:
-  name        : "ItsMe AK"
+Flak:
+  name        : "Flak"
   bio         : "WS2.E Lead"
-  avatar      : "https://cdn.discordapp.com/avatars/396541298565185547/a_5895d9935033e01e68b11b510a89322c.gif?size=256"
+  avatar      : "https://cdn.discordapp.com/avatars/389150310700023810/73a0ee4f3ed185ee1c63a82209bcc988?size=1024"
   links:
-    - label: "AK#2881"
+    - label: "flakk"
+      icon: "fab fa-discord"
+      url: "/discord"
+
+Flak:
+  name        : "Branga"
+  bio         : "WS2.0 Lead"
+  avatar      : "https://cdn.discordapp.com/avatars/474127489958936576/4fd19055c02afe71d4a6c2678d2dd900?size=1024"
+  links:
+    - label: "branga"
       icon: "fab fa-discord"
       url: "/discord"
