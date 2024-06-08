@@ -10,7 +10,7 @@ WilliamLC:
 Justin:
   name        : "Justin"
   bio         : "FWA Admin, Lead of WS2.B and WS2.8"
-  avatar      : "https://cdn.discordapp.com/avatars/244447987948847109/21be5a431a9970f67c5fb55e084f5f5e.png?size=256"
+  avatar      : "https://cdn.discordapp.com/avatars/244447987948847109/21be5a431a9970f67c5fb55e084f5f5e.webp?size=256"
   links:
     - label: "feelslikejustin"
       icon: "fab fa-discord"
@@ -19,7 +19,7 @@ Justin:
 Me$h:
   name        : "Me$h"
   bio         : "WS2.A Lead"
-  avatar      : "https://cdn.discordapp.com/avatars/496016928024952846/ce6d5358b880502a0ee88a9286dd2ea1.png?size=256"
+  avatar      : "https://cdn.discordapp.com/avatars/496016928024952846/ce6d5358b880502a0ee88a9286dd2ea1.webp?size=256"
   links:
     - label: "mesh1230"
       icon: "fab fa-discord"
@@ -37,7 +37,7 @@ I2_frosty:
 Thxbault:
   name        : "Thxbault"
   bio         : "WS2.7 Lead, WS2.4 Colead, WS2.0 Colead."
-  avatar      : "https://cdn.discordapp.com/avatars/107413197702582272/ac8e9c578b9bfb6f41d9d3bc0b67a31a.webp?size=512"
+  avatar      : "https://cdn.discordapp.com/avatars/107413197702582272/cb87bde54d8680b8428bfa0647d30917.webp?size=256"
   links:
     - label: "thxbault"
       icon: "fab fa-discord"
@@ -46,7 +46,7 @@ Thxbault:
 mbehtiop:
   name        : "mbehtiop"
   bio         : "WS2.4 Lead"
-  avatar      : "https://cdn.discordapp.com/avatars/260507246323040259/b372b26c4fbcfc87fea9bad65e39405c.png?size=256"
+  avatar      : "https://cdn.discordapp.com/avatars/260507246323040259/b372b26c4fbcfc87fea9bad65e39405c.webp?size=256"
   links:
     - label: "annony"
       icon: "fab fa-discord"
@@ -55,7 +55,7 @@ mbehtiop:
 Flak:
   name        : "Flak"
   bio         : "WS2.E Lead"
-  avatar      : "https://cdn.discordapp.com/avatars/389150310700023810/73a0ee4f3ed185ee1c63a82209bcc988?size=1024"
+  avatar      : "https://cdn.discordapp.com/avatars/389150310700023810/3abd6c693e5840e9c962fdd15e18912e.webp?size=256"
   links:
     - label: "flakk"
       icon: "fab fa-discord"
@@ -64,7 +64,7 @@ Flak:
 Branga:
   name        : "Branga"
   bio         : "WS2.0 Lead"
-  avatar      : "https://cdn.discordapp.com/avatars/474127489958936576/4fd19055c02afe71d4a6c2678d2dd900?size=1024"
+  avatar      : "https://cdn.discordapp.com/avatars/474127489958936576/4fd19055c02afe71d4a6c2678d2dd900.webp?size=256"
   links:
     - label: "branga"
       icon: "fab fa-discord"
