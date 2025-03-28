@@ -30,7 +30,7 @@ feature_row:
     url: "/clans/27"
     btn_label: "Visit Clan Page"
     btn_class: "btn--primary"
-  - image_path: https://i.imgur.com/QTdWTLA.png
+  - image_path: https://clashspot.net/clan/L0YQG2V0/signature?theme=dark&lng=en
     title: "War Snipers 2.8"
     excerpt: "**Tag**: #PL0YQG2V0<br>CWL in seperate clans<br>**Leader**: justinlee1687"
     url: "/clans/28"
