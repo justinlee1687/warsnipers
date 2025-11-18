@@ -52,7 +52,7 @@ mbehtiop:
       icon: "fab fa-discord"
       url: "/discord"
 
-Flak:
+AK:
   name        : "AK"
   bio         : "WS2.E Lead"
   avatar      : "/assets/images/pfps/ak.png"
@@ -61,7 +61,7 @@ Flak:
       icon: "fab fa-discord"
       url: "/discord"
 
-Branga:
+Ghost:
   name        : "Ghost"
   bio         : "WS2.0 Lead"
   avatar      : "/assets/images/pfps/ghost.png"
