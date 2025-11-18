@@ -57,7 +57,7 @@ AK:
   bio         : "WS2.E Lead"
   avatar      : "/assets/images/pfps/ak.png"
   links:
-    - label: "ak"
+    - label: "ak_____"
       icon: "fab fa-discord"
       url: "/discord"
 
@@ -66,6 +66,6 @@ Ghost:
   bio         : "WS2.0 Lead"
   avatar      : "/assets/images/pfps/ghost.png"
   links:
-    - label: "ghost"
+    - label: "gh0stf4ce2.0"
       icon: "fab fa-discord"
       url: "/discord"
