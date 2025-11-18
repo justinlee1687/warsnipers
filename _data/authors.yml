@@ -53,19 +53,19 @@ mbehtiop:
       url: "/discord"
 
 Flak:
-  name        : "Flak"
+  name        : "AK"
   bio         : "WS2.E Lead"
-  avatar      : "/assets/images/pfps/flak.png"
+  avatar      : "/assets/images/pfps/ak.png"
   links:
-    - label: "flakk"
+    - label: "ak"
       icon: "fab fa-discord"
       url: "/discord"
 
 Branga:
-  name        : "Branga"
+  name        : "Ghost"
   bio         : "WS2.0 Lead"
-  avatar      : "/assets/images/pfps/branga.png"
+  avatar      : "/assets/images/pfps/ghost.png"
   links:
-    - label: "branga"
+    - label: "ghost"
       icon: "fab fa-discord"
       url: "/discord"
